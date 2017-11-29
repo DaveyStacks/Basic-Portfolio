@@ -75,7 +75,7 @@ a {
 	background-color: #ffffff;
 	padding-bottom: 20px;
 	border: solid #dddddd .05px;
-	padding-bottom: 450px;
+	padding-bottom: 750px;
 	padding-left: 10px;
 }
 
@@ -172,5 +172,7 @@ input[type=submit]:hover {
 
 .portimage {
 	float: left;
-	margin: 5px;
+	margin: 20px;
+	margin-left: 50px;
+
 }
