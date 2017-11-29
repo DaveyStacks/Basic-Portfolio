@@ -174,5 +174,6 @@ input[type=submit]:hover {
 	float: left;
 	margin: 20px;
 	margin-left: 50px;
+	position: relative;
 
 }
