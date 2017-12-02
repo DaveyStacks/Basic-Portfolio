@@ -177,3 +177,51 @@ input[type=submit]:hover {
 	position: relative;
 
 }
+
+.portclassone {
+	position: relative;
+}
+
+.firsttwoimg {
+	z-index: 2;
+	position: absolute;
+	padding: 10px;
+	background: #4aaaa5;
+	left:50px;
+	width: 230px;
+	top: 140px;
+}
+.firsttwoimgtwo {
+	z-index: 2;
+	position: absolute;
+	padding: 10px;
+	background: #4aaaa5;
+	left: 370px;
+	width: 230px;
+	top: 140px;
+}
+
+.secondtwoimg {
+	z-index: 2;
+	position: absolute;
+	padding: 10px;
+	background: #4aaaa5;
+	left:50px;
+	width: 230px;
+	top: 380px;
+}
+
+.secondtwoimgtwo {
+	z-index: 2;
+	position: absolute;
+	padding: 10px;
+	background: #4aaaa5;
+	left: 370px;
+	width: 230px;
+	top: 380px;
+}
+
+
+h3 {
+	text-align: center;
+}
